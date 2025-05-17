@@ -1,6 +1,6 @@
 # trackify-resources
 
-[//]: # ([![npm version][npm-badge]][npm-link] [![License: MIT][license-badge]][license-link])
+[![npm version][npm-badge]][npm-link] [![License: MIT][license-badge]][license-link]
 
 ---
 
@@ -206,9 +206,9 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-[//]: # ([npm-badge]: https://img.shields.io/npm/v/trackify-resources.svg)
+[npm-badge]: https://img.shields.io/npm/v/trackify-resources.svg
 
-[//]: # ([npm-link]: https://www.npmjs.com/package/trackify-resources)
+[npm-link]: https://www.npmjs.com/package/trackify-resources
 [license-badge]: https://img.shields.io/badge/License-MIT-yellow.svg
 [license-link]: LICENSE
 [github-issues]: https://github.com/your-username/trackify-resources/issues

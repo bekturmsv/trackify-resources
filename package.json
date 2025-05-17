@@ -4,12 +4,12 @@
   "description": "A universal module to monitor resource usage and performance in Node.js and browsers",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/bekturmsv/trackify-resources.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/bekturmsv/trackify-resources/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/bekturmsv/trackify-resources#readme",
 
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
