@@ -1,0 +1,17 @@
+# Не публикуем исходники, сборка уже в dist/
+src/
+__tests__/
+tsconfig.json
+jest.config.ts
+
+# Конфиги линтеров, форматтеров
+.eslintrc.js
+.prettierrc
+
+# Скрипты CI, IDE-файлы
+.github/
+.vscode/
+
+# Логи, временные файлы
+*.log
+*.tmp
